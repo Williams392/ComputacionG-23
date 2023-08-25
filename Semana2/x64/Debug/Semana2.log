@@ -1,0 +1,6 @@
+﻿  Semana2.cpp
+C:\Users\PC\Desktop\UPN\6to--2023_2\ComputacionGrafica\Codigo\Semana2\Semana2\Semana2.cpp(64,28): warning C4305: 'argumento': truncamiento de 'int' a 'GLubyte'
+C:\Users\PC\Desktop\UPN\6to--2023_2\ComputacionGrafica\Codigo\Semana2\Semana2\Semana2.cpp(64,16): warning C4309: 'argumento': truncamiento de valor constante
+C:\Users\PC\Desktop\UPN\6to--2023_2\ComputacionGrafica\Codigo\Semana2\Semana2\Semana2.cpp(70,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\PC\Desktop\UPN\6to--2023_2\ComputacionGrafica\Codigo\Semana2\Semana2\Semana2.cpp(71,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Semana2.vcxproj -> C:\Users\PC\Desktop\UPN\6to--2023_2\ComputacionGrafica\Codigo\Semana2\x64\Debug\Semana2.exe
